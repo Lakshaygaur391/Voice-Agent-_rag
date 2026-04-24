@@ -1,4 +1,1 @@
-# 🎙️ Voice Assistant RAG
-
-> A fully interactive, voice-controlled AI assistant powered by Retrieval-Augmented Generation (RAG), Whisper speech-to-text, and ElevenLabs voice synthesis.
-
+An intelligent voice-enabled AI assistant that leverages Retrieval-Augmented Generation (RAG) to provide accurate, context-aware responses from custom data sources.
